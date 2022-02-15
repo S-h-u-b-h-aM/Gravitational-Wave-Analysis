@@ -4,4 +4,5 @@ The notebooks which are provided can be downloaded but Google colab is highly re
 In the above provided notebooks, unfortunately graph plots aren't shown in the preview, but if one opens these notebooks in google colab then the graphs can be seen.\
 Direct links to Google Colaboratory:\
 [G Wave Analysis 1](https://colab.research.google.com/drive/1pDUn1HOEW0JTvSHYjcojj4lVLmQE2Gl1?usp=sharing)\
-[G Wave Analysis 2](https://colab.research.google.com/drive/131vre2F4YgXTILvsNNn9YOdOPgTIRSwT?usp=sharing)
+[G Wave Analysis 2](https://colab.research.google.com/drive/131vre2F4YgXTILvsNNn9YOdOPgTIRSwT?usp=sharing)\
+[G Wave Analysis 3](https://colab.research.google.com/drive/1XiwlS3tsGsOcNVhExNC-j-xpVdLBakEL?usp=sharing)
